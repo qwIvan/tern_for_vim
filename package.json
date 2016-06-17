@@ -9,6 +9,6 @@
     "url": "git://github.com/marijnh/tern_for_vim.git"
   },
   "dependencies": {
-    "tern": "https://github.com/othree/tern/tarball/stable"
+    "tern": "https://github.com/othree/tern"
   }
 }
